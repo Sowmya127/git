@@ -1,0 +1,31 @@
+<body>
+<div id="background-img">
+  <div class="overlay">
+
+    <nav class="top-bar nav-desktop">
+
+  <div class="top-bar-left">
+ <h3 class="site-logo"> TrebleClef</h3>
+</div>
+<div class="top-bar-right">
+    <ul class="menu menu-desktop">
+  <li><a href="#">Guitars</a></li>
+  <li><a href="#">Keyboards</a></li>
+  <li><a href="#">Flutes</a></li>
+</ul>
+  </div>
+</nav>
+<center>
+  <div id="content">
+    <h1> Music store</h1>
+    <h3> Feel the Music</h3>
+  </div> </center>
+</div>
+</div>
+
+<section id="feature">
+ <div class="title-text">
+   <p>FEATURES</p>
+   <h1>About Us</h1>
+ </div>
+</section>
