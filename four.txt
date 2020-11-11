@@ -1,0 +1,65 @@
+
+<section id="piano">
+  <div class="title-text">
+    <p>Modus Digital Pianos</p>
+    <br><h3>Striking Sound, Striking Design</h3>
+  </div>
+  <div class="piano-box">
+    <div class="single-piano">
+       <img src="img/p1.jpg">
+    </div>
+    <div class="single-piano">
+    <img src="img/p2.jpg">
+
+    </div>
+    <div class="single-piano">
+      <img src="img/p3.jpg">
+     </div>
+    <div class="single-piano">
+      <img src="img/p4.jpg">
+     </div>
+  </div>
+</section>
+
+<section id="guitar">
+  <div class="title-text">
+    <p>Great Guitar Brands</p>
+    <h3>Whether you want to rock out in front of millions or learn
+      your favorite song, guitar is the ultimate portable music making tool</h3>
+  </div>
+  <div class="guitar-box">
+    <div class="single-guitar">
+      <img src="img/g1.jpg">
+    </div>
+    <div class="single-guitar">
+      <img src="img/g2.jpg">
+    </div>
+    <div class="single-guitar">
+    <img src="img/g3.jpg">
+      </div>
+    <div class="single-guitar">
+      <img src="img/g4.jpg">
+    </div>
+  </div>
+</section>
+
+<section id="drums">
+  <div class="title-text">
+    <p>Drums for Beginners</p>
+    <h3>Stunning looks, great sound and perfectly priced drums!</h3>
+  </div>
+  <div class="drums-box">
+    <div class="single-drums">
+      <img src="img/d1.jpg">
+    </div>
+    <div class="single-drums">
+      <img src="img/d2.jpg">
+    </div>
+    <div class="single-drums">
+    <img src="img/d3.jpg">
+      </div>
+    <div class="single-drums">
+      <img src="img/d4.jpg">
+    </div>
+  </div>
+</section> 
